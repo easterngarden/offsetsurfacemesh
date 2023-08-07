@@ -45,7 +45,7 @@ OF SUCH DAMAGE.
 #include <iostream>
 #include <map>
 #include <assert.h> 
-#include "kdprocessor..h"
+#include "kdprocessor.h"
 
 namespace CGAL {
 
